@@ -14,7 +14,7 @@ npm install
 ```
 
 ### Start client
-Run `npm start` to start VueJS client
+Run `npm start` to start ReactJS client
 
 ### Start backend
 Before start backend you have to export an environment that links to your Google Service Account Key
